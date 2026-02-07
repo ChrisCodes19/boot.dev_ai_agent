@@ -46,21 +46,3 @@ if args.verbose == False:
             print(f'Calling function: {item.name}({item.args})')
     else:
         print(generated_content.text)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
